@@ -33,9 +33,11 @@
 <summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="GRxeno's GitHub Stats" src="https://github-readme-stats-seven-tan.vercel.app/api?username=GRxeno&show_icons=true&hide_border=true&theme=dracula" />
+  <br />
+  <br />
 
 </details>
-<br />
+
 <details>
   
 <summary>:zap: Language Stats</summary>
