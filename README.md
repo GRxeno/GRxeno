@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-qhzdmg5bc-grxeno.vercel.app/api/spotify-playing" alt="GRxeno Spotify Playing" width="350" />](https://open.spotify.com/user/GRxeno)
+[![GRxeno's listening](https://novatorem-three-ruddy.vercel.app/api/spotify)](https://open.spotify.com/user/GRxeno)
 
 
 ### Connect with me:
