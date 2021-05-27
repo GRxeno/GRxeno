@@ -26,12 +26,13 @@
 [<img align="left" alt="GRxeno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+<br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="GRxeno's GitHub Stats" src="https://github-readme-stats.GRxeno.vercel.app/api?username=GRxeno&show_icons=true&hide_border=true" />
+<img align="left" alt="GRxeno's GitHub Stats" src="https://github-readme-stats.GRxeno.vercel.app/api?username=GRxeno&show_icons=true&hide_border=true" />
 
 </details>
 
