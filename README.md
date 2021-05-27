@@ -16,6 +16,8 @@
 
 [<img src="https://novatorem-three-ruddy.vercel.app/api/spotify-playing" alt="GRxeno Spotify Playing" width="350" />](https://open.spotify.com/user/GRxeno)
 
+[![Spotify](https://grxeno.vercel.app/api/spotify)](https://open.spotify.com/user/GRxeno)
+
 
 ### Connect with me:
 
