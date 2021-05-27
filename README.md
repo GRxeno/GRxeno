@@ -36,6 +36,8 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats-seven-tan.vercel.app/api/top-langs/?username=GRxeno)](https://github.com/grxeno/github-readme-stats)
+
 <!--[website]: -->
 [twitter]: https://twitter.com/xeno_pap
 [instagram]: https://www.instagram.com/xeno_pap
