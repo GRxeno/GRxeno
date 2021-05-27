@@ -12,7 +12,7 @@
 ## I'm a student of computer science and engineering at University of Ioannina
 
 
-### Spotify Playing 🎧
+### Spotify Playing Now 🎧
 
 [![GRxeno's listening](https://novatorem-three-ruddy.vercel.app/api/spotify)](https://open.spotify.com/user/GRxeno)
 
