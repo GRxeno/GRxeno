@@ -11,11 +11,11 @@
 
 ## I'm a student of computer science and engineering at University of Ioannina
 
-<!--
+
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
--->
+[<img src="https://novatorem-three-ruddy.vercel.app/api/spotify-playing" alt="GRxeno Spotify Playing" width="350" />](https://open.spotify.com/user/GRxeno)
+
 
 ### Connect with me:
 
