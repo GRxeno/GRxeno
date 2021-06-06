@@ -28,6 +28,10 @@
 <br />
 <br />
 
+:zap: Language Stats
+
+[![Top Langs](https://github-readme-stats-seven-tan.vercel.app/api/top-langs/?username=GRxeno&theme=dracula)](https://github.com/grxeno/github-readme-stats)
+
 <details>
   
 <summary>:zap: GitHub Stats</summary>
@@ -37,13 +41,7 @@
 
 </details>
 
-<details>
-  
-<summary>:zap: Language Stats</summary>
 
-[![Top Langs](https://github-readme-stats-seven-tan.vercel.app/api/top-langs/?username=GRxeno&theme=dracula)](https://github.com/grxeno/github-readme-stats)
-
-</details>
 
 
 <!--[website]: -->
