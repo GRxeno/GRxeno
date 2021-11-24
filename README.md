@@ -1,15 +1,14 @@
 ### Hi there 👋, my name is Xenofon and i am a computer geek
 
-- 🔭 I’m currently working towards my CS degree. :mortar_board:
-- 🌱 I’m currently learning everything i can. :raising_hand:
-<!-- - 👯 I’m looking to collaborate on ...-->
-<!-- - 🤔 I’m looking for help with ...-->
-<!-- - 💬 Ask me about ...-->
-<!-- - 📫 How to reach me: ...-->
-- ⚡ Fun fact: I really like rockets too. :rocket:
+- :mortar_board: I’m currently working towards my CS degree. 
+- :office: I’m currently also working as a software developer.
+- :raising_hand: I’m try to learn as much as i can each day.
+
+- :e-mail: How to reach me: xinipap@gmail.com 
+- :rocket: Fun fact: I really like rockets.
 
 
-## I'm a student of computer science and engineering at University of Ioannina
+## I'm a student of computer science and engineering at University of Ioannina and at the same time I work as Software Developer at Kenotom, Thessaloniki.
 
 
 ### Spotify Playing Now 🎧
@@ -19,11 +18,10 @@
 
 ### Connect with me:
 
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
-[<img align="left" alt="GRxeno | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="GRxeno | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GRxeno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="GRxeno | Portfolio" width="22px" src="https://img.icons8.com/fluency/48/000000/globe.png" />][website]
+[<img align="left" alt="GRxeno | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" />][twitter]
+[<img align="left" alt="GRxeno | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />][linkedin]
+[<img align="left" alt="GRxeno | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br />
 <br />
@@ -44,7 +42,7 @@
 
 
 
-<!--[website]: -->
+[website]: https://grxeno.github.io/Portfolio/
 [twitter]: https://twitter.com/xeno_pap
 [instagram]: https://www.instagram.com/xeno_pap
 [linkedin]: https://www.linkedin.com/in/xenopap
