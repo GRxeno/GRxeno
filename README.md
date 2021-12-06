@@ -1,4 +1,6 @@
-### Hi there 👋, my name is Xenofon and i am a computer geek
+![Banner](https://github.com/GRxeno/GRxeno/blob/main/Banner.png?raw=true)
+
+### Hi there 👋, I am Xenofon!
 
 - :mortar_board: I’m currently working towards my CS degree. 
 - :office: I’m currently also working as a software developer.
@@ -7,8 +9,6 @@
 - :e-mail: How to reach me: xinipap@gmail.com 
 - :rocket: Fun fact: I really like rockets.
 
-
-## I'm a student of computer science and engineering at University of Ioannina and at the same time I work as Software Developer at Kenotom, Thessaloniki.
 
 
 ### Spotify Playing Now 🎧
