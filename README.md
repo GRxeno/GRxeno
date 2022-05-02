@@ -4,7 +4,7 @@
 
 - :mortar_board: I’m currently working towards my CS degree. 
 - :office: I’m currently also working as a software developer.
-- :raising_hand: I’m tring to learn as much as I can each day.
+- :raising_hand: I’m trying to learn as much as I can each day.
 
 - :e-mail: How to reach me: xinipap@gmail.com 
 - :rocket: Fun fact: I really like rockets.
