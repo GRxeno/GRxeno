@@ -40,10 +40,8 @@
 
 
 ## Spotify Playing Now 🎧
-<div align="center">
-[![GRxeno's listening](https://novatorem-three-ruddy.vercel.app/api/spotify)](https://open.spotify.com/user/GRxeno)
 
-</div>
+[![GRxeno's listening](https://novatorem-three-ruddy.vercel.app/api/spotify)](https://open.spotify.com/user/GRxeno)
 
 <br />
 
@@ -67,9 +65,7 @@
 
 :zap: Language Stats
 
-<div align="center">
 [![Top Langs](https://github-readme-stats-seven-tan.vercel.app/api/top-langs/?username=GRxeno&theme=dracula)](https://github.com/grxeno/github-readme-stats)
-</div>  
 
 <details>
   
